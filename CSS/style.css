@@ -1,0 +1,12 @@
+* { box-sizing: border-box; }
+
+body{ padding-top: 70px; }
+
+.col-md-3, .col-md-12{ padding-bottom: 20px; }
+
+.panel-body h4 { margin-top: 0; }
+
+.glyphicon:before { margin-right: 5px; } /* Spacing between the glyphicon and text */
+
+#descripcion, #comentarios{ padding: 17px; }
+
